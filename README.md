@@ -79,7 +79,7 @@ You must also also test the Spinner component in this module:
 - The structure of the DOM must match that of the prototype: take care not to remove existing classnames, ids, etc.
 - Most components include a prop-types declaration at the bottom, to explain what props -and of what data types- they expect.
 - Unmet prop-types expectations will cause warnings in the console, to advise that props are missing, or of the wrong type of data.
-- Try to get the functionality of the app as close as possible to that of the prototype. Not all of it is covered by auto tests.
+- Try to get the functionality of the app as close as possible to that of the prototype. Not all of it is covered by auto tests..
 
 ## MVP Short Explanation
 
